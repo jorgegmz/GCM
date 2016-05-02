@@ -10,7 +10,7 @@ public class App {
 
         System.out.println("Sending POST to GCM");
 
-        String apiKey = "AIzaSyC_oi5v-QwyHirz_xbDzwcdcAROWrZ-xwc";
+        String apiKey = "AIzaSyAgEX9qJCL9mqgL9DCqHqdrsEJKfHwb9BU";
         Content content = createContent();
 
         Post2Gcm.post(apiKey, content);
