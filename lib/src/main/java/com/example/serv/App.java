@@ -19,7 +19,7 @@ public class App {
     public static Content createContent() {
         Content c = new Content();
 
-        c.addRegId("");
+        c.addRegId("APA91bGnuord-wE0MJFMNqygSKDRP9EWHP5Qidk9ftk9nRx0ocmqEiqzWxNVl02vQof7VMoDJF7PJGzBpu01WYqTvYOW0DD6_BLXC0g56SVLA_xB-5nX_ZCHP7ZZrDA0xGnq6BHw4w7Z");
         //FIXME the key underneath is the old addRegId. The new one will be placed in the empty string
         //APA91bGB-ZbeyCtLP_QRNQE5zu4Y-1LgRlTFiIMh2vDrhtgVwL5vTo5DYiE_YFo4ftOjxk4Nihykt_LSTPL9T_7FX64I7EQoe-l_eQ_4-T36BwAdOgAioktNUE1fwFoaPe6fdzQ1Aayx
             //String str = msg.getPayload().get("message");
